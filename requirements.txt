@@ -1,6 +1,8 @@
 pillow==13.0.0
 pypng==0.20220715.0
 python-dotenv==1.0.1
+pytest==8.3.3
+pytest-cov==6.0.0
 qrcode==7.4.2
 typing_extensions==4.10.0
 validators==0.23.2
